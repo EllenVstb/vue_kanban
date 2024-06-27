@@ -1,0 +1,88 @@
+{
+  "projects": [
+    {
+      "id": "0a25",
+      "title": "Dit is een voorbeeld kaart",
+      "details": "Hier kan ik meer informatie ingeven over de kaart ",
+      "complete": true,
+      "checklist": [
+        {
+          "id": "1718278984463",
+          "text": "taak 1",
+          "complete": true
+        },
+        {
+          "id": "1718279008322",
+          "text": "taak 2",
+          "complete": true
+        },
+        {
+          "id": "1718279012740",
+          "text": "taak 3",
+          "complete": true
+        },
+        {
+          "id": "1718279018980",
+          "text": "taak 4",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "id": "9761",
+      "title": "Dit is een extra voorbeeld",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "checklist": [
+        {
+          "id": "1718279049249",
+          "text": "taak A",
+          "complete": false
+        },
+        {
+          "id": "1718279049649",
+          "text": "taak B",
+          "complete": false
+        },
+        {
+          "id": "1718279050193",
+          "text": "taak C",
+          "complete": false
+        },
+        {
+          "id": "1718279048745",
+          "text": "taak D",
+          "complete": true
+        }
+      ]
+    },
+    {
+      "id": "5de5",
+      "title": "Nog een extra voorbeeld",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "checklist": [
+        {
+          "id": "1718279130651",
+          "text": "",
+          "complete": false
+        },
+        {
+          "id": "1718279131563",
+          "text": "",
+          "complete": false
+        },
+        {
+          "id": "1718279133354",
+          "text": "",
+          "complete": false
+        },
+        {
+          "id": "1718279137604",
+          "text": "",
+          "complete": false
+        }
+      ]
+    }
+  ]
+}
